@@ -1,6 +1,6 @@
 # About Me
 
-I am an AI and Data Science specialist with a B.Tech in Computer Science Engineering with specialization in (AI & Machine Learning) from VIT Chennai. I excel in designing scalable, data-driven systems that leverage advanced machine learning, computer vision, and cloud technologies to solve complex challenges.
+I am an AI and Data Science enthusiast currently pursuing a Bachelor's in Computer Science Engineering with specialization in (AI & Machine Learning) from VIT Chennai. I excel in designing scalable, data-driven systems that leverage advanced machine learning, computer vision, and cloud technologies to solve complex challenges.
 
 ## Notable Projects
 
