@@ -1,6 +1,6 @@
 # About Me
 
-I am an AI and Data Science specialist with a B.Tech in Computer Science (AI & Machine Learning) from VIT Chennai. I excel in designing scalable, data-driven systems that leverage advanced machine learning, computer vision, and cloud technologies to solve complex challenges.
+I am an AI and Data Science specialist with a B.Tech in Computer Science Engineering with specialization in (AI & Machine Learning) from VIT Chennai. I excel in designing scalable, data-driven systems that leverage advanced machine learning, computer vision, and cloud technologies to solve complex challenges.
 
 ## Notable Projects
 
@@ -32,9 +32,6 @@ I am an AI and Data Science specialist with a B.Tech in Computer Science (AI & M
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atchudhansreekanthgomadam/)
 
 # 📊 GitHub Stats
 
