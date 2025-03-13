@@ -1,30 +1,43 @@
-# 💫 About Me:
-🎓 Aspiring AI Engineer | Data Scientist | Full-Stack Developer<br>🔍 Passionate about leveraging AI, machine learning, and software development to create impactful solutions in healthcare, accessibility, and autonomous systems.<br>
-<br>💻 Technical Expertise<br><br>Programming Languages: Python, C/C++, Java, Dart<br>Machine Learning & AI: TensorFlow, Keras, Scikit-Learn, MONAI, NLP, Computer Vision, Deep Learning<br>Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Power BI, EDA<br>Web & Mobile Development: Flutter, React, Next.js, Firebase, ShadCN, Convex<br>Cloud & Databases: AWS (EC2, S3), SQL, MySQL<br>Advanced Techniques: Computer Vision, UMAP, BERTopic, Generative AI<br>Tools: Git, Jupyter Notebook, VSCode, TensorBoard
+# About Me
 
-<br>🌟 Projects & Contributions<br><br>AI-Assisted Brain MRI Interpretation: Developed a hybrid model integrating patient data with MRI features, achieving high diagnostic accuracy and automating MRI report generation with Generative AI.<br>Explainable Cross-Domain Image Translation: Built a Pix2Pix GAN model for MRI translation, enhancing interpretability with Grad-CAM and achieving top-tier performance in clinical benchmarks.<br>JobMingle - Recruitment Platform: Created a machine-learning-powered recruitment app using Flutter and Firebase, enabling real-time resume-job matching with 90% precision.<br>Serverless Face Verification System: Designed a scalable, serverless face recognition system with AWS Rekognition, Lambda, S3, and DynamoDB, achieving 99% accuracy.
+I am an AI and Data Science specialist with a B.Tech in Computer Science (AI & Machine Learning) from VIT Chennai. I excel in designing scalable, data-driven systems that leverage advanced machine learning, computer vision, and cloud technologies to solve complex challenges.
 
-<br>📜 Certifications<br><br>Google AI Essentials: Generative AI, Prompt Engineering, LLMs
+## Notable Projects
 
+### Deep Learning, Computer Vision & Generative AI
+- **[NeuroGPT: AI-Powered MRI Insights & Reporting](https://github.com/atchudhansg/NeuroGPT-AI-Powered-MRI-Insights-Reporting)**  
+  A multimodal framework that integrates segmented MRI features with patient data for enhanced brain imaging interpretation. It improves 3D lesion detection and automates report generation using Generative AI.
+  
+- **[MRI Modality Translation](https://github.com/atchudhansg/MRI-Modality-Translation)**  
+  Advanced AI system that transforms between MRI modalities using GAN-based architectures and interpretability techniques. The solution delivers top-tier anatomical similarity and pixel-level accuracy, streamlining diagnostic workflows. Currently under review at an Elsevier journal, Impact Factor 2.1.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/atchudhansreekanthgomadam) 
+### Cloud & Serverless Solutions
+- **[Serverless Face Identity Verification](https://github.com/atchudhansg/Serverless-Face-Identity-Verification-Using-AWS-Rekognition)**  
+  A robust, serverless system using AWS Rekognition, Lambda, S3, and DynamoDB for secure and efficient facial identity verification, reducing retrieval times and operational costs while achieving 99% accuracy.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+### Data Analytics & Financial Modeling
+- **[Financial Data Analysis & Stock Prediction](https://github.com/atchudhansg/Financial-Data-Analysis-Stock-Prediction-with-ML-Web-Scraping)**  
+  Machine learning models with web scraping to perform real-time financial analytics and stock prediction, delivering actionable insights to support data-driven investment strategies.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=atchudhansg&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=atchudhansg&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atchudhansg&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### Mobile & Web Development
+- **[JobMingle: Resume Screening App](https://github.com/atchudhansg/jobmingle-resume-screening-app)**  
+  Intelligent recruitment platform developed with Flutter and Firebase that automates resume screening using machine learning. Its custom matching algorithm achieves 90% accuracy, significantly reducing candidate screening time.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💻 Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atchudhansg&limit=5&theme=calm&combine_all_yearly_contributions=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=atchudhansg&icon=0&color=5)](https://visitcount.itsvg.in)
+## 🌐 Connect with Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atchudhansreekanthgomadam/)
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=atchudhansg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=atchudhansg&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atchudhansg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
