@@ -18,7 +18,11 @@ I am an AI and Data Science enthusiast currently pursuing a Bachelor's in Comput
 ### Data Analytics & Financial Modeling
 - **[Financial Data Analysis & Stock Prediction](https://github.com/atchudhansg/Financial-Data-Analysis-Stock-Prediction-with-ML-Web-Scraping)**  
   Machine learning models with web scraping to perform real-time financial analytics and stock prediction, delivering actionable insights to support data-driven investment strategies.
-
+  
+### AI Compilers & System Design
+- **[OptiMap: AI-Powered Compiler for pPIM Architectures](https://github.com/atchudhansg/OptiMap-Compiler)**  
+  A self-optimizing compiler built for 24-bit Processor-in-Memory systems. It uses speculative strategy generation, AI-guided cost prediction, and memory-aware instruction mapping to compile high-level matrix operations into efficient ISA-level instructions. Designed to evolve with every compilation.
+  
 ### Mobile & Web Development
 - **[JobMingle: Resume Screening App](https://github.com/atchudhansg/jobmingle-resume-screening-app)**  
   Intelligent recruitment platform developed with Flutter and Firebase that automates resume screening using machine learning. Its custom matching algorithm achieves 90% accuracy, significantly reducing candidate screening time.
@@ -31,7 +35,6 @@ I am an AI and Data Science enthusiast currently pursuing a Bachelor's in Comput
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 
 # 📊 GitHub Stats
 
