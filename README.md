@@ -1,23 +1,23 @@
 # About Me
 
-I am an AI and Data Science enthusiast currently pursuing a Bachelor's in Computer Science Engineering with specialization in (AI & Machine Learning) from VIT Chennai. I excel in designing scalable, data-driven systems that leverage advanced machine learning, computer vision, and cloud technologies to solve complex challenges.
+I am an AI Engineer dedicated to architecting and implementing scalable, production-grade AI systems across Generative AI, Computer Vision, and Full-Stack Development. Currently pursuing a Bachelor's in Computer Science with specialization in AI & Machine Learning at VIT Chennai, I excel in transforming complex AI models into practical applications through methodical prompt engineering, multimodal learning, and adaptive system architectures.
 
 ## Notable Projects
 
 ### Deep Learning, Computer Vision & Generative AI
 - **[NeuroGPT: AI-Powered MRI Insights & Reporting](https://github.com/atchudhansg/NeuroGPT-AI-Powered-MRI-Insights-Reporting)**  
-  A multimodal framework that integrates segmented MRI features with patient data for enhanced brain imaging interpretation. It improves 3D lesion detection and automates report generation using Generative AI.
+A multimodal AI framework that integrates segmented 3D MRI features with patient data to enhance brain imaging interpretation. It combines neural language models and generative AI to improve lesion detection and automate clinical report generation, reducing documentation time by up to 70% with zero-shot narrative capabilities.
   
-- **[MRI Modality Translation](https://github.com/atchudhansg/MRI-Modality-Translation)**  
+- **[Generative Medical Imaging Pipeline](https://github.com/atchudhansg/MRI-Modality-Translation)**  
   Advanced AI system that transforms between MRI modalities using GAN-based architectures and interpretability techniques. The solution delivers top-tier anatomical similarity and pixel-level accuracy, streamlining diagnostic workflows. Currently under review at an Elsevier journal, Impact Factor 2.1.
 
 ### Cloud & Serverless Solutions
 - **[Serverless Face Identity Verification](https://github.com/atchudhansg/Serverless-Face-Identity-Verification-Using-AWS-Rekognition)**  
   A robust, serverless system using AWS Rekognition, Lambda, S3, and DynamoDB for secure and efficient facial identity verification, reducing retrieval times and operational costs while achieving 99% accuracy.
 
-### Data Analytics & Financial Modeling
-- **[Financial Data Analysis & Stock Prediction](https://github.com/atchudhansg/Financial-Data-Analysis-Stock-Prediction-with-ML-Web-Scraping)**  
-  Machine learning models with web scraping to perform real-time financial analytics and stock prediction, delivering actionable insights to support data-driven investment strategies.
+### Data Analytics & Financial Intelligence
+- **[Financial Forecasting & Risk Intelligence Platform](https://github.com/atchudhansg/Financial-Data-Analysis-Stock-Prediction-with-ML-Web-Scraping)**  
+  End-to-end analytics pipeline integrating market data with transformer-based sentiment analysis, automating sentiment extraction and reducing manual effort by 60% through intelligent financial data processing.
   
 ### AI Compilers & System Design
 - **[OptiMap: AI-Powered Compiler for pPIM Architectures](https://github.com/atchudhansg/OptiMap-Compiler)**  
