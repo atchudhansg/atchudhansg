@@ -18,6 +18,9 @@ Compiler for 24-bit Processor-in-Memory architectures with AI-guided optimizatio
 **[Financial Intelligence Platform](https://github.com/atchudhansg/Financial-Data-Analysis-Stock-Prediction-with-ML-Web-Scraping)**  
 Market analysis pipeline with transformer-based sentiment analysis. 60% reduction in manual workflows.
 
+**[Unreal FPS AI Prototype](https://github.com/atchudhansg/GameDevProject)**  
+UE5-based first-person shooter prototype. Implements player controls, weapon mechanics, and Blueprint-based AI with patrol, detection, and attack behavior. Built as a sandbox to explore gameplay logic and AI systems in Unreal Engine.
+
 ## Tech Stack
 
 **AI/ML:** PyTorch, TensorFlow, Transformers, OpenCV, Scikit-learn  
