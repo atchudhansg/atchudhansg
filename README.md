@@ -4,7 +4,19 @@ AI Engineer specializing in Generative AI, Computer Vision, and full-stack syste
 
 Currently pursuing Computer Science (AI/ML) at VIT Chennai. Ex-Intern at Larsen and Toubro. Delivered solutions across healthcare AI, Software Defined Vehicles (SDVs), compiler optimization, and financial intelligence.
 
+## Recent Achievements
+
+**🏆 3rd Place - Synthetic Data & OpenEnv Challenge (October 2025)**  
+[MAROONED](https://github.com/atchudhansg/colony-collapse) — Multi-agent deception environment with LLM-guided reinforcement learning. Recognized for novel approach to emergent behavioral dynamics and teacher-guided learning architecture.
+
+Sponsored by: <a href="https://unsloth.ai/"><img src="https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png" width="60" alt="Unsloth" style="vertical-align: middle; background: white; padding: 5px; border-radius: 4px;"/></a> • **PyTorch** • **AMD**
+
+---
+
 ## Key Projects
+
+**[MAROONED: Multi-Agent Deception Environment](https://github.com/atchudhansg/colony-collapse)**  
+Custom OpenEnv implementation with 5 simultaneous agents, asymmetric information dynamics, and teacher-guided SFT. 10,000-step episodes with sparse rewards testing long-horizon language reasoning and emergent deception strategies.
 
 **[NeuroGPT: AI-Powered MRI Insights](https://github.com/atchudhansg/NeuroGPT-AI-Powered-MRI-Insights-Reporting)**  
 Multimodal AI framework for neuroimaging diagnostics. 99.68% specificity, 70% reduction in documentation time.
