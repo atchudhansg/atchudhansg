@@ -20,9 +20,6 @@ Sponsored by: <a href="https://unsloth.ai/"><img src="https://github.com/unsloth
 **[MAROONED: Multi-Agent Deception Environment](https://github.com/atchudhansg/colony-collapse)**  
 Custom OpenEnv with 5 simultaneous LLM agents, asymmetric information dynamics, and teacher-guided SFT. 10,000-step episodes testing long-horizon reasoning and emergent deception.
 
-**[ResumeRank: AI-Powered ATS](https://github.com/atchudhansg)**  
-Hybrid search pipeline — SQL filtering, GIN-indexed skill matching, HNSW vector search, and LLM reranking across 100+ resumes. Sub-500ms retrieval. Dockerized with row-level security.
-
 **[Enterprise Support Engine](https://github.com/atchudhansg/neurotag-engine0)**  
 Two fine-tuned Mistral-7B models — one classifies, one responds — serving multilingual tickets across 8 domains. 4-bit quantized to fit on a single L4.
 
