@@ -10,7 +10,7 @@ I don't build demos, I build things that survive production.
 
 ## Recent Achievements
 
-**🏆 3rd Place - Synthetic Data & OpenEnv Challenge (October 2025)**  
+**3rd Place - Synthetic Data & OpenEnv Challenge (October 2025)**  
 [MAROONED](https://github.com/atchudhansg/colony-collapse) — Multi-agent deception environment with LLM-guided reinforcement learning. 5 concurrent agents, teacher-guided fine-tuning, 10,000-step survival episodes.
 
 Sponsored by: <a href="https://unsloth.ai/"><img src="https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png" width="60" alt="Unsloth" style="vertical-align: middle; background: white; padding: 5px; border-radius: 4px;"/></a> • **PyTorch** • **AMD**
