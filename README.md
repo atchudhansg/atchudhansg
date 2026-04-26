@@ -2,9 +2,10 @@
 
 I make AI systems run where they're not supposed to fit.
 
-Squeezed multimodal models onto cheap GPUs. Built multi-agent RL environments from scratch. Shipped agentic microservices on Kubernetes. Designed a full ATS with vector search and intelligent ranking. Fine-tuned LLMs to run on edge devices. Published researcher in medical imaging.
+Squeezed multimodal models onto cheap GPUs. Built multi-agent RL environments from scratch. Shipped agentic microservices on Kubernetes. Designed a full ATS with vector search and intelligent ranking. Fine-tuned LLMs to run on edge devices. Published researcher, interpretable AI and efficient deep learning. Top 15%, Springer LNNS.
 
-I don't build demos, I build things that survive production.
+3rd Place, AMD Developer Challenge. VIT Chennai, CS.
+Building things that survive production.
 
 ## Recent Achievements
 
