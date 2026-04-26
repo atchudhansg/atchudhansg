@@ -20,11 +20,11 @@ Sponsored by: <a href="https://unsloth.ai/"><img src="https://github.com/unsloth
 **[MAROONED: Multi-Agent Deception Environment](https://github.com/atchudhansg/colony-collapse)**  
 Custom OpenEnv with 5 simultaneous LLM agents, asymmetric information dynamics, and teacher-guided SFT. 10,000-step episodes testing long-horizon reasoning and emergent deception.
 
-**[Enterprise Support Engine](https://github.com/atchudhansg/neurotag-engine0)**  
-Two fine-tuned Mistral-7B models — one classifies, one responds — serving multilingual tickets across 8 domains. 4-bit quantized to fit on a single L4.
-
 **[Explainable FLAIR-to-T1 MRI Synthesis](https://github.com/atchudhansg/Explainable-FLAIR-to-T1-MRI-Synthesis)**  
 Official implementation of the paper accepted at ICCDM-2026, published in the Springer LNNS Series.
+
+**[Enterprise Support Engine](https://github.com/atchudhansg/neurotag-engine0)**  
+Two fine-tuned Mistral-7B models — one classifies, one responds — serving multilingual tickets across 8 domains. 4-bit quantized to fit on a single L4.
 
 **[OptiMap: AI Compiler for pPIM](https://github.com/atchudhansg/OptiMap-Compiler)**  
 Compiler for 24-bit Processor-in-Memory architectures with AI-guided optimization.
